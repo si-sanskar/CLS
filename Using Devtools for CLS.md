@@ -13,5 +13,5 @@ After the report is generated, we can filter for all the elements which are cont
 Under the `View Original Trace` section, we have to select the checkbox for `Web Vitals` and `Screenshots`. After doing this, we can look for Layout Shifts in the `Experience` part and view the screenshots to see what is causing LS.
 
 
-![Screenshot 1](https://github.com/si-sanskar/CLS/blob/main/screenshots/1.png)
-![Screenshot 2](https://github.com/si-sanskar/CLS/blob/main/screenshots/2.png)
+![Screenshot 1](https://github.com/si-sanskar/CLS/blob/main/screenshots/1.png?raw=true)
+![Screenshot 2](https://github.com/si-sanskar/CLS/blob/main/screenshots/2.png?raw=true)
